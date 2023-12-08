@@ -45,8 +45,8 @@
   --Very-Dark-Desaturated-Violet: #3e2654;
   /* (radio button outline) */
   --Very-Light-Magenta: #e570ff;
-  --hight: 500px;
-  --width: 270px;
+  --hight: 480px;
+  --width: 250px;
 }
 * {
   -webkit-box-sizing: border-box;
@@ -196,8 +196,8 @@ h4 {
 .mob-body {
   display: flex;
   flex-direction: column;
-  padding: 12px;
-  gap: 0.7rem;
+  padding: 10px;
+  gap: 0.6rem;
 }
 p {
   font-size: 9px;
@@ -241,7 +241,7 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 8px;
+  padding: 7px;
 }
 .circle {
   width: 20px;
